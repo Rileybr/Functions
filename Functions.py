@@ -1,3 +1,7 @@
+# Crosses By Brandon Riley
+# 9/19/17
+# Draws five connecting crosses in a desired color and size
+
 import turtle
 
 side_length = float(input("What is the side length?: "))
